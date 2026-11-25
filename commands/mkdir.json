@@ -1,0 +1,15 @@
+{
+  "name": "mkdir folder",
+  "what": "Creates a new directory.",
+  "how": [
+    {
+      "flag": "mkdir",
+      "description": "Creates a directory."
+    },
+    {
+      "flag": "folder",
+      "description": "Specifies the directory name."
+    }
+  ],
+  "impact": "A new directory named folder is created in the current location."
+}

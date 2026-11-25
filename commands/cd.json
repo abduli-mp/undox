@@ -1,0 +1,15 @@
+{
+  "name": "cd folder",
+  "what": "Changes the current working directory.",
+  "how": [
+    {
+      "flag": "cd",
+      "description": "Changes the current directory."
+    },
+    {
+      "flag": "folder",
+      "description": "Specifies the destination directory."
+    }
+  ],
+  "impact": "Your terminal starts operating from the specified directory."
+}
